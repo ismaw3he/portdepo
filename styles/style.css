@@ -259,7 +259,7 @@ body {
 .main-right {
     width: 50%;
     height: 100%;
-    background-image: url("./img/warehouseblue.jpeg");
+    background-image: url("../img/warehouseblue.jpeg");
     background-position: right 45% bottom 55%;
     border-radius: 30% 70% 70% 30% / 30% 24% 76% 70%;
 }
@@ -1017,7 +1017,7 @@ html {
     width: 200px;
     height: 65px;
     /*background: linear-gradient(125deg,#ff006d,#6901ff,#00bcd4);*/
-    background-image: url("./img/bck.png");
+    background-image: url("../img/bck.png");
     background-position: 0 0;
     background-size: 376px;
     border-radius: 33px;
